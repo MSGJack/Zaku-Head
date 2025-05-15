@@ -1,0 +1,2 @@
+#2 Zaku Head
+Made this for fun and trying out my CSS skills. Unfortunately it's not responsive as it breaks apart at smaller screens. The main goal was to at least resemble the Zaku which I think I somewhat achieved. The main challenges were the mask and mouth sections. I had to use pseudo elements so I could make certain areas the correct size without having the rest of the Zaku grow as well. The upper part of the head is the probably is most the accurate to the Zaku. Next time I will either try recreating the Zaku(maybe Char's) or the Gundam but it will be responsive. 
